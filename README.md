@@ -6,3 +6,5 @@ dummy text 2
 
 
 dummy github text
+
+my conflict commit
